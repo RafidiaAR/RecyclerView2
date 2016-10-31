@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.model;
+package id.sch.smktelkom_mlg.learn.recyclerview2.model;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recyclerview1.R;
+import id.sch.smktelkom_mlg.learn.recyclerview2.R;
 
 /**
  * Created by RafidiaAR on 10/31/2016.
